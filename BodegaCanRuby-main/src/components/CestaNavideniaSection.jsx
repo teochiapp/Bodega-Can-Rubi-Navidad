@@ -25,7 +25,7 @@ export const CestaNavideniaSection = () => {
       icon: <LocalBar />,
       color: "#4a7c2e",
       items: [
-        "1 Bot Alada Rosado ECO Cabernet Sauvignon",
+        "1 Bot Alada Blanco ECO Chardonnay",
         "1 Bot La Mar de Bé Cuvée",
         "1 Bot Es Padrí",
         "1 Bot Cava Gran Palas",
@@ -45,6 +45,7 @@ export const CestaNavideniaSection = () => {
         "1 Cuña Queso Semi Binigarba 360gr",
         "1 Aceitunas Bernard 250gr",
         "1 Aceite Bernard Virgen Extra 500ml",
+        "1 Paté Pato Al Oporto 110 Gr",
       ],
     },
     {
@@ -118,7 +119,7 @@ export const CestaNavideniaSection = () => {
                     textTransform: "none",
                   }}
                 >
-                  169 € + IVA
+                  172 € + IVA
                 </Button>
 
                 <IconButton
@@ -199,7 +200,7 @@ export const CestaNavideniaSection = () => {
             alt="Cesta de Navidad"
             sx={{
               width: { xs: "90%", md: "100%" },
-          
+
               maxWidth: "600px",
               height: "auto",
               mx: "auto",

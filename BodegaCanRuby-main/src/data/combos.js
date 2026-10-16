@@ -2,12 +2,12 @@ export const combos = [
   {
     title: "Es Padrí",
     subtitle: "Lote Gastronómico",
-    price: "177.95 € + IVA",
+    price: "180.95 € + IVA",
     description: "El regalo ideal para los paladares más exigentes, con productos gourmet y una selección de vinos excepcionales. Perfecto para ocaciones especiales o para sorprender a alguien con lo mejor de la gastronomía.",
     wines: [
       "1 Bot La Mar de Bé Tinto Cuvée  Semi Crianza",
-      "1 Bot Alada Rosado ECO Cabernet Sauvignon",
-      "1 Bot Es Padrí 2020 Tinto crianza",
+      "1 Bot Alada Blanco ECO Chardonnay",
+      "1 Bot Es Padrí 2021 Tinto crianza",
       "1 Bot Hierbas Rubí Dulces 70cl",
       "1 Bot Cava Eudald Eco Natura",
       "1 Bot Limoncello Sorrento 25% 70cl",
@@ -19,6 +19,7 @@ export const combos = [
       "1 Chorizo Ibérico Vela 250 gr",
       "1 Galletas Gori de Muro Picantes 240gr",
       "1 Bote Aceitunas Verdes Partidas 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Chocolate Simón Coll 70% Cacao 85gr",
@@ -30,12 +31,12 @@ export const combos = [
   {
     title: "La Mar de Bé",
     subtitle: "Experiencia Mediterránea",
-    price: "96.95 € + IVA",
+    price: "99.95 € + IVA",
     description: "Una selección elegante y equilibrada de vinos y productos gourmet mediterráneos, perfecta para disfrutar en celebraciones o regalar con estilo. Refleja calidad y buen gusto en cada detalle.",
     wines: [
       "1 Bot La Mar de Bé Cuvée Semi Crianza",
-      "1 Bot Alada Rosado ECO Cabernet Sauvignon",
-      "1 Bot Es Padrí 2020 Tinto Crianza",
+      "1 Bot Alada Blanco ECO Chardonnay",
+      "1 Bot Es Padrí 2021 Tinto Crianza",
       "1 Bot Hierbas Rubí Dulces 70cl",
       "1 Bot Cava Eudald Eco Brut Nature",
       "1 Bot Limoncello Sammarco 25% 70cl",
@@ -47,6 +48,7 @@ export const combos = [
       "1 Chorizo Ibérico Vela 250gr",
       "1 Galletas Gori de Muro Picantes 240gr",
       "1 Bote Aceitunas Verdes Partidas 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Chocolate Simón Coll 70% Cacao 85gr",
@@ -59,7 +61,7 @@ export const combos = [
   {
     title: "Camí Entre Vinyes",
     subtitle: "Tradición y Modernidad",
-    price: "82.95 € + IVA",
+    price: "85.95 € + IVA",
     description: "Para quienes disfrutan de la tradición con un toque contemporáneo, este lote ofrece vinos exclusivos, tapas y productos artesanales. Una experiencia gastronómica única para los amantes del buen vivir.",
     wines: [
       "1 Bot Rubí Es Padrí Crianza",
@@ -75,6 +77,7 @@ export const combos = [
       "1 Pack Cuña Semi 225gr + Cuña Curado 200gr Coinga",
       "1 80gr de Jamón de Bellota Estirpe Negra al Vacío",
       "1 Chorizo Ibérico Vela 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Chocolate Simón Coll 70% Cacao 85gr",
@@ -86,7 +89,7 @@ export const combos = [
   {
     title: "Endiumenjat",
     subtitle: "Elegancia y Refinamiento",
-    price: "129.95 € + IVA",
+    price: "132.95 € + IVA",
     description: "Un lujo accesible con una selección de vinos, vermut y productos gourmet que evocan los sabores más auténticos. Ideal para compartir en momentos especiales con amigos y familia.",
     wines: [
       "1 Bot Alada Cuvée ECO Semi Crianza",
@@ -101,6 +104,7 @@ export const combos = [
       "1 Pack Cuña Cemi 225gr + Cuña Curado 200gr Coinga",
       "1 Chorizo Ibérico Vela 250gr",
       "1 Jamón Reserva 7.5kg",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Chocolate Simón Coll 70% Cacao 85gr",
@@ -112,7 +116,7 @@ export const combos = [
   {
     title: "Alternativo Sin Alcohol",
     subtitle: "Salud y Bienestar",
-    price: "59.95 € + IVA",
+    price: "62.95 € + IVA",
     description: "Una opción gourmet sin alcohol que ofrece calidad y sabor en cada bocado. Perfecto para aquellos que buscan productos saludables sin renunciar al placer gastronómico.",
     wines: [],
     meats: [
@@ -121,6 +125,7 @@ export const combos = [
       "1 Pack Cuña Semi 225gr + Cuña Curado 200gr Coinga",
       "1 Sal Chili y Romero 250gr",
       "1 Bote Aceitunas Verdes Partidas 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Nueces Mitades 500gr",
@@ -135,7 +140,7 @@ export const combos = [
   {
     title: "Alada",
     subtitle: "Placer Auténtico",
-    price: "59.95 € + IVA",
+    price: "62.95 € + IVA",
     description: "Vinos y embutidos selectos para los amantes de lo auténtico, combinados con sabores tradicionales que elevan cualquier ocasión. Un detalle gourmet que refleja cuidado y buen gusto.",
     wines: [
       "1 Bot Alada Cuvée ECO Semi Crianza",
@@ -148,6 +153,7 @@ export const combos = [
       "1 Pack Cuña Semi 225gr + Cuña Curado 200gr Coinga",
       "1 Sobrasada Xama de Sa Pobla 450gr Aprox.",
       "1 Chorizo Ibérico Vela 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Surtido Tradicional Navidad La Confitera 300gr",
@@ -159,10 +165,10 @@ export const combos = [
   {
     title: "Voramar",
     subtitle: "Festín Ibérico",
-    price: "99.95 € + IVA",
+    price: "102.95 € + IVA",
     description: "Un lote completo con vinos y productos ibéricos de alta calidad, pensado para quienes disfrutan de lo mejor en cada celebración. Ideal para compartir y disfrutar con los seres queridos.",
     wines: [
-      "1 Bot Es Padrí 2020 Tinto Crianza",
+      "1 Bot Es Padrí 2021 Tinto Crianza",
       "1 Bot Cava Eudald Eco Brut Nature",
       "1 Bot Crema de Tequila Maxica",
     ],
@@ -170,6 +176,7 @@ export const combos = [
       "1 Pack Cuña Semi 225gr + Cuña Curado 200gr Coinga",
       "1 Chorizo Ibérico Vela 250gr",
       "1 Jamón Reserva 7.5kg",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Surtido Tradicional Navidad La Confitera 300gr",
@@ -182,16 +189,18 @@ export const combos = [
   {
     title: "Jove",
     subtitle: "Sabor Tradicional",
-    price: "33.95 € + IVA",
+    price: "39.95 € + IVA",
     description: "Una selección práctica y deliciosa con productos tradicionales y un toque moderno. Perfecto para regalar a quienes disfrutan de los placeres gourmet.",
     wines: [
       "1 Bot Alada Cuvée ECO Semi Crianza",
       "1 Bot Limoncello Sammarco 25% 70cl",
+      "1 Bot Escuma de Mar Brut",
     ],
     meats: [
       "1 Sobrasada Xama de Sa Pobla 450gr Aprox.",
       "1 Galletas Gori de Muro Picantes 240gr",
       "1 Bote Aceitunas Verdes Partidas 250gr",
+      "1 Paté Pato Al Oporto 110 Gr",
     ],
     sweets: [
       "1 Chocolate Simón Coll 70% Cacao 85gr",

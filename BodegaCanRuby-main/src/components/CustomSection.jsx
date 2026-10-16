@@ -55,7 +55,6 @@ export const CustomSection = () => {
             <Box
               component="span"
               sx={{
-                fontWeight: 'bold',
                 fontWeight: 500,
                 fontStyle: 'italic',
               }}
@@ -78,7 +77,6 @@ export const CustomSection = () => {
                 <Box
                   component="span"
                   sx={{
-                    fontWeight: 'bold',
                     fontFamily: "Lora, serif",
                     fontSize: { xs: '1.2rem', sm: '1.5rem', md: '1.9rem' },
                     fontWeight: 800,
